@@ -1,0 +1,15 @@
+<h3><span id="a">an0n@v33r</span>:<span id="b">~</span><span id="c">$</span> cat an0nv33r.txt </h3>
+<h2>Hi, I'm Jasveer Singh.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Alumni of <a href = "https://www.rtu.ac.in/" target="_blank"> Rajasthan Technical University, Kota, India. </a> 
+<!-- slightdelayhere--><!-- longlongcomment --><br>I did my B.Tech in <a href = "#">Computer Science Engineering.</a> </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>I am a Cyber Security Enthusiast. I love playing CTF's, You can check out my profile on <a href="https://tryhackme.com/p/IamJasveer" target="_blank">Try Hack Me</a> and <a href = "https://app.hackthebox.com/profile/651015" target="_blank">Hack The Box.</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><p>My other interests are solving problems related to Data Structures and Algorithms, Bug Bounty Hunting and Web Development.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> <p> Resume - <a href = "#">Will be added soon. </a> </p> <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef --> </h2>
+
+<h3><span id="a">an0n@v33r</span>:<span id="b">~</span><span id="c">$</span> Contact Me </h3><!-- slightdelayhere--><!-- longlongcomment --> 
+<h2>Email address : <a href="mailto:veer@cyberdude.com">veer@cyberdude.com</a> || <a href="mailto:oyeecoder@proton.me">oyeecoder@proton.me</a> 
+Linked-In : <a href = "https://www.linkedin.com/in/an0nv33r/">Click Here</a>
+Instagram : <a href = "https://www.instagram.com/iamveer.me/">Click Here</a>
+For my write up's : <a href = "https://oyeecoder.blogspot.com/">Click Here</a></h2> <br/>
+
+<h3><span id="a">an0n@v33r</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
+<h1> I never wanted to become a coder during my school days :P </h1>
+
+<h3><span id="a">an0n@v33r</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
+<h1>Everyone is a loser till they decide to do something about it. </h1>
